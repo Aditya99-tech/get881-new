@@ -20,4 +20,8 @@ public class Calci {
 		System.out.println("mult=" +(num1*num2));
 		
 	}
+	public void square(int num1) {
+		System.out.println("square=" +(num1*num1));
+		
+	}
 }
