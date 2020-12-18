@@ -21,4 +21,8 @@ public class Calci {
 		System.out.println("mult=" +(num1*num2));
 		
 	}
+	public void product(int num1,int num2) {
+		System.out.println("mult=" +(num1*num2));
+		
+	}
 }
